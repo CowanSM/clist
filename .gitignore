@@ -1,0 +1,7 @@
+# ignore patterns for files
+
+# ignore patterns for folders
+CList/bin/*
+CList/bin/*/*
+CList/obj/*
+CList/obj/*/*
